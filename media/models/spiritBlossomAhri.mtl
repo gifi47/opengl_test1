@@ -1,0 +1,32 @@
+# Blender 3.6.2 MTL File: 'ahriSpiritBlossomHumanForm.blend'
+# www.blender.org
+
+newmtl Ahri_Body_MAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/tmp/assets/characters/ahri/skins/skin27/ahri_skin27_tx_cm.dds
+
+newmtl Ahri_Tail_MAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/tmp/assets/characters/ahri/skins/skin27/ahri_skin27_tail_tx_cm.dds
+
+newmtl Ahri_Tails_MAT
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/tmp/assets/characters/ahri/skins/skin27/ahri_skin27_tails_tx_cm.dds
